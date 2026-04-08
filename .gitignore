@@ -1,0 +1,23 @@
+# Environnement virtuel (Trop lourd pour Git)
+venv/
+ENV/
+env/
+
+# Variables secrètes (SÉCURITÉ !)
+.env
+
+# Base de données locale (On ne partage pas ses données privées)
+*.sqlite3
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dossiers d'éditeurs
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db

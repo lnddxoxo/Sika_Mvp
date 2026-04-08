@@ -9,4 +9,8 @@ YAHOO_MP = {
 'Cacao':'CC=F', 'Petrole':'CL=F', 'Or':'GC=F', 'Coton':'CT=F',
 }
 YAHOO_INDICES = {
+<<<<<<< HEAD
 'CAC40':'^FCHI', 'DowJones':'^DJI', 'NSE':'^NSEASI',
+=======
+'CAC40':'^FCHI', 'DowJones':'^DJI', 'NSE':'^NSEASI',}
+>>>>>>> feature/scraping
